@@ -1,0 +1,9 @@
+[submodule "analyze-log"]
+	path = analyze-log
+	url = git@github.com:thuthan1801/analyze-log.git
+[submodule "submodules/ABC"]
+	path = submodules/ABC
+	url = https://github.com/theorchard/openpyxl.git
+[submodule "submodules/DEF"]
+	path = submodules/DEF
+	url = git@github.com:thuthan1801/Spoon-Knife.git
